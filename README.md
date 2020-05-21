@@ -1,3 +1,3 @@
-# secretdotfiles
+# my dotfiles 2.0
 
-my not so secret dotfiles
+My often changing and secure dotfiles to be used with https://github.com/jsravn/nixfiles.
